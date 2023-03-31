@@ -1,0 +1,11 @@
+C:\Users\kta24\source\repos\Calculator5\Calculator5\bin\Debug\Calculator5.exe.config
+C:\Users\kta24\source\repos\Calculator5\Calculator5\bin\Debug\Calculator5.exe
+C:\Users\kta24\source\repos\Calculator5\Calculator5\bin\Debug\Calculator5.pdb
+C:\Users\kta24\source\repos\Calculator5\Calculator5\obj\Debug\Calculator5.csproj.AssemblyReference.cache
+C:\Users\kta24\source\repos\Calculator5\Calculator5\obj\Debug\Calculator5.csproj.SuggestedBindingRedirects.cache
+C:\Users\kta24\source\repos\Calculator5\Calculator5\obj\Debug\Calculator5.Form1.resources
+C:\Users\kta24\source\repos\Calculator5\Calculator5\obj\Debug\Calculator5.Properties.Resources.resources
+C:\Users\kta24\source\repos\Calculator5\Calculator5\obj\Debug\Calculator5.csproj.GenerateResource.cache
+C:\Users\kta24\source\repos\Calculator5\Calculator5\obj\Debug\Calculator5.csproj.CoreCompileInputs.cache
+C:\Users\kta24\source\repos\Calculator5\Calculator5\obj\Debug\Calculator5.exe
+C:\Users\kta24\source\repos\Calculator5\Calculator5\obj\Debug\Calculator5.pdb
